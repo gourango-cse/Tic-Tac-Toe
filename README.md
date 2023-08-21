@@ -5,7 +5,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 ## Introduction
 
 <p align="center">
-    <img alt="Screenshot" src="">
+    <img alt="Screenshot" src="https://github.com/gourango-cse/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.png">
 </p>
 
 
