@@ -7,7 +7,7 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 <p align="center">
     <img alt="Screenshot" src="https://github.com/gourango-cse/Tic-Tac-Toe/blob/main/Tic-Tac-Toe.png">
 </p>
-
+<p> Go and Try this [Tic-Tac-Toe](https://gourango-cse.github.io/Tic-Tac-Toe/)
 
 ### Rules
 
