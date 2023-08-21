@@ -21,5 +21,5 @@ Simple tic-tac-toe game built using HTML, CSS, and JavaScript.
 
 👤 **Gourango Mandal**
 
-* LinkedIn: [@Gourango Mandal](https://www.linkedin.com/in/gourango-cse/)
-* GitHub: [@gourango Mandal](https://github.com/gourango-cse)
+* LinkedIn: [Gourango Mandal](https://www.linkedin.com/in/gourango-cse/)
+* GitHub: [Gourango Mandal](https://github.com/gourango-cse)
